@@ -6,6 +6,7 @@
 
 ### https://openweathermap.org/ 
 
-https://github.com/batuhncbk/Open_Weather_API_App/blob/main/weather_app.PNG
+![Github görselim](https://github.com/batuhncbk/Open_Weather_API_App/blob/main/weather_app.PNG)
+
 
 #### API when you enter your city and presents weather information to the user with a visual interface.
