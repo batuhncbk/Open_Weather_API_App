@@ -9,4 +9,3 @@
 <p align="center">
   <img src="https://github.com/batuhncbk/Open_Weather_API_App/blob/main/weather_app.PNG" alt="Github görselim"/>
 </p>
-![Github görselim](https://github.com/batuhncbk/Open_Weather_API_App/blob/main/weather_app.PNG)
